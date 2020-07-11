@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 
 I'm Yezy, I'm making the world a better place to both developers and end users by creating great and simple to use APIs and UIs.
 
